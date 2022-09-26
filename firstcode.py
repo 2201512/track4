@@ -5,3 +5,4 @@ import time
 print("Hello")
 print("Hi")
 print("Yugen")
+lb.types("Electrical")
